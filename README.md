@@ -1,5 +1,9 @@
 <h1>FundRaiser - Crowdfund Project</h1>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/vassilas/Fundraising-app/main/doc/Architecture.png"  width="70%"> 
+</div>
+
 <h2>Business Case Description</h2>
 <p>You have been given the opportunity to work for a big client. The task at hand is to create a crowdfunding platform (like KickStarter or Indiegogo) for the Web where one, the Project Creator, could share their wildest idea and others, the backers, could contribute financially to see it happening.</p>
 <p>The Project Creator promotes his idea through a custom project profile page where he can add a project title, Description, photos, videos and post status updates, whenever necessary.</p>
